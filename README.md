@@ -2,6 +2,8 @@
 
 An interactive HR analytics application that uses logistic regression to predict employee attrition risk. HR teams can adjust an employee profile in real time and see attrition probability scores across business travel frequency levels, with uncertainty bounds derived from cross-validation.
 
+# Visualization Link
+https://econ3916finalproject-rycrzy7dj7w743pculvcrw.streamlit.app/
 ---
 
 ## Stakeholders
